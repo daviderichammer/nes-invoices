@@ -1,0 +1,131 @@
+{
+  "total_invoices": 95,
+  "total_amount": 913850.0,
+  "total_hours": "4777",
+  "average_hourly_rate": 47.94210526315789,
+  "date_range": {
+    "earliest": "",
+    "latest": "2025-06-03"
+  },
+  "company_breakdown": {
+    "W3Evolutions Systems LLC": 80,
+    "W3Evolutions LLC": 14,
+    "": 1
+  },
+  "terms_breakdown": {
+    "D": 94,
+    "": 1
+  },
+  "monthly_totals": {
+    "2023-02": {
+      "amount": 1562.5,
+      "hours": 5,
+      "count": 1
+    },
+    "2023-03": {
+      "amount": 2646.0,
+      "hours": 21,
+      "count": 1
+    },
+    "2023-04": {
+      "amount": 13454.0,
+      "hours": 29,
+      "count": 4
+    },
+    "2023-12": {
+      "amount": 27846.0,
+      "hours": 221,
+      "count": 2
+    },
+    "2024-01": {
+      "amount": 26334.0,
+      "hours": 209,
+      "count": 2
+    },
+    "2024-02": {
+      "amount": 48636.0,
+      "hours": 386,
+      "count": 5
+    },
+    "2024-03": {
+      "amount": 21672.0,
+      "hours": 172,
+      "count": 3
+    },
+    "2024-04": {
+      "amount": 35532.0,
+      "hours": 282,
+      "count": 5
+    },
+    "2024-05": {
+      "amount": 38556.0,
+      "hours": 306,
+      "count": 4
+    },
+    "2024-06": {
+      "amount": 26334.0,
+      "hours": 209,
+      "count": 3
+    },
+    "2024-07": {
+      "amount": 42966.0,
+      "hours": 341,
+      "count": 4
+    },
+    "2024-08": {
+      "amount": 44226.0,
+      "hours": 351,
+      "count": 3
+    },
+    "2024-09": {
+      "amount": 35532.0,
+      "hours": 282,
+      "count": 3
+    },
+    "2024-10": {
+      "amount": 35028.0,
+      "hours": 278,
+      "count": 5
+    },
+    "2024-11": {
+      "amount": 31752.0,
+      "hours": 252,
+      "count": 3
+    },
+    "2024-12": {
+      "amount": 46998.0,
+      "hours": 373,
+      "count": 4
+    },
+    "2025-01": {
+      "amount": 57960.0,
+      "hours": 237,
+      "count": 3
+    },
+    "2025-02": {
+      "amount": 54558.0,
+      "hours": 0,
+      "count": 4
+    },
+    "2025-03": {
+      "amount": 61236.0,
+      "hours": 0,
+      "count": 5
+    },
+    "2025-04": {
+      "amount": 66402.0,
+      "hours": 0,
+      "count": 4
+    },
+    "2025-05": {
+      "amount": 47754.0,
+      "hours": 0,
+      "count": 4
+    },
+    "2025-06": {
+      "amount": 13482.0,
+      "hours": 0,
+      "count": 1
+    }
+  }
+}
