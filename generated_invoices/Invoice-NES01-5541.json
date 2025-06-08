@@ -1,0 +1,52 @@
+{
+  "invoice_number": "NES01-5541",
+  "invoice_date": "6/5/2025",
+  "customer": {
+    "name": "National Exemption Service, LLC",
+    "address": "604 Packard Ct",
+    "city_state_zip": "Safety Harbor, FL 34695"
+  },
+  "totals": {
+    "total_hours": 24,
+    "total_amount": 3024,
+    "subtotal": 3024,
+    "tax": 0.0,
+    "balance_due": 3024
+  },
+  "entries": [
+    {
+      "date": "6/4/25",
+      "hours": 12,
+      "category": "Enhancement",
+      "task": "AAE-101 - UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/5/25",
+      "hours": 12,
+      "category": "Enhancement",
+      "task": "AAE-101 - UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    }
+  ],
+  "config": {
+    "invoice_number": "NES01-5541",
+    "customer_id": "NES01",
+    "bill_to": {
+      "name": "National Exemption Service, LLC",
+      "address": "604 Packard Ct",
+      "city_state_zip": "Safety Harbor, FL 34695"
+    },
+    "hourly_rate": 126,
+    "base_rate": 175,
+    "discount": 49,
+    "terms": "NET 30",
+    "sales_rep": "Brandon Kozak",
+    "ship_via": "Email",
+    "payment_info": {
+      "payable_to": "W3Evolutions Systems LLC",
+      "address": "4826 Troydale Rd, Tampa FL 33615",
+      "zelle": "zelle.wf@w3evolutions.com"
+    }
+  }
+}
