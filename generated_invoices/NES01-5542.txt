@@ -1,0 +1,42 @@
+
+W3EVOLUTIONS
+                                    INVOICE
+
+Invoice #NES01-5542
+
+BILL TO:
+National Exemption Service, LLC
+1981 Marcus Ave
+Suite C-114
+Lake Success, NY 11042
+
+INVOICE DETAILS:
+Invoice Date: 6/10/25
+Due Date: Upon Receipt
+Total Hours: 102
+Period: 6/4/25 - 6/10/25
+
+SERVICES PROVIDED:
+Date       Hours  Description                                                     Amount
+------------------------------------------------------------------------------------------
+6/4/25        17 hours  AAE-101 - UAT bug tracker list review, development and bug fixes $2,142.00
+6/5/25        15 hours  AAE-101 - UAT bug tracker list review, development and bug fixes $1,890.00
+6/6/25        16 hours  AAE-101 - UAT bug tracker list review, development and bug fixes Issues with ERV2 on prod - introduced bandaid fixes needs to be merged into stage-qa for A2 $2,016.00
+6/7/25         9 hours  AAE-101 - UAT bug tracker list review, development and bug fixes $1,134.00
+6/8/25        10 hours  AAE-101 - UAT bug tracker list review, development and bug fixes $1,260.00
+6/9/25        17 hours  AAE-101 - UAT bug tracker list review, development and bug fixes $2,142.00
+6/10/25       18 hours  AAE-101 - UAT bug tracker list review, development and bug fixes $2,268.00
+
+------------------------------------------------------------------------------------------
+
+SUMMARY:
+Subtotal (102 hours × $126/hour):     $ 12,852.00
+Discount:                                      -$     49.00
+                                              ---------------
+TOTAL:                                         $ 12,803.00
+
+PAYMENT TERMS:
+Payment is due upon receipt. Please remit payment to the address above 
+or contact us for electronic payment options.
+
+Thank you for your business!
