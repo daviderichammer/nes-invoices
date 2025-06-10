@@ -1,0 +1,68 @@
+{
+  "invoice_number": "NES01-5541",
+  "invoice_date": "6/10/2025",
+  "bill_to": {
+    "company": "National Exemption Service, LLC",
+    "address": "604 Packard Ct",
+    "city_state_zip": "Safety Harbor, FL 34695"
+  },
+  "customer_id": "NES01",
+  "sales_rep": "Brandon Kozak",
+  "terms": "NET 30",
+  "work_entries": [
+    {
+      "date": "6/4/25",
+      "hours": 17,
+      "description": "AAE-101 UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/5/25",
+      "hours": 15,
+      "description": "AAE-101 UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/6/25",
+      "hours": 16,
+      "description": "AAE-101 UAT bug tracker + ERV2 prod issues, bandaid fixes for stage-qa",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/7/25",
+      "hours": 9,
+      "description": "AAE-101 UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/8/25",
+      "hours": 10,
+      "description": "AAE-101 UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/9/25",
+      "hours": 17,
+      "description": "AAE-101 UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    },
+    {
+      "date": "6/10/25",
+      "hours": 18,
+      "description": "AAE-101 UAT bug tracker list review, development and bug fixes",
+      "persons": "BK/DH"
+    }
+  ],
+  "summary": {
+    "total_hours": 102,
+    "hourly_rate": 126.0,
+    "subtotal": 12852.0,
+    "discount": 49.0,
+    "balance_due": 12803.0
+  },
+  "payment_info": {
+    "payable_to": "W3Evolutions Systems LLC",
+    "address": "4826 Troydale Rd, Tampa FL 33615",
+    "zelle": "zelle.wf@w3evolutions.com"
+  }
+}
