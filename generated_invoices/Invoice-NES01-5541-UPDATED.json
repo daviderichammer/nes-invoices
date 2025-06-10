@@ -1,0 +1,35 @@
+{
+  "invoice_number": "NES01-5541",
+  "invoice_date": "6/5/2025",
+  "due_date": "Net 30",
+  "bill_to": {
+    "company": "National Exemption Service, LLC",
+    "address": "1234 Main Street",
+    "city_state_zip": "Anytown, ST 12345"
+  },
+  "work_entries": [
+    {
+      "date": "6/4/25",
+      "hours": 12,
+      "description": "AAE-101 UAT bug tracker work",
+      "persons": "BK/DH",
+      "invoice": "NES01-5541"
+    },
+    {
+      "date": "6/5/25",
+      "hours": 12,
+      "description": "AAE-101 UAT bug tracker work",
+      "persons": "BK/DH",
+      "invoice": "NES01-5541"
+    }
+  ],
+  "summary": {
+    "total_hours": 24,
+    "hourly_rate": 126.0,
+    "subtotal": 3024.0,
+    "discount": 49.0,
+    "total_amount": 2975.0
+  },
+  "payment_terms": "Net 30 days",
+  "payment_method": "Check or ACH transfer"
+}

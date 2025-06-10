@@ -1,0 +1,43 @@
+
+W3EVOLUTIONS
+INVOICE
+
+BILL TO:
+National Exemption Service, LLC
+1234 Main Street
+Anytown, ST 12345
+
+INVOICE DETAILS:
+Invoice Number: NES01-5541
+Invoice Date: 6/5/2025
+Due Date: Net 30
+
+========================================
+
+WORK PERFORMED:
+
+Date: 6/4/25
+Hours: 12
+Description: AAE-101 UAT bug tracker work
+Personnel: BK/DH
+
+Date: 6/5/25
+Hours: 12
+Description: AAE-101 UAT bug tracker work
+Personnel: BK/DH
+
+========================================
+
+SUMMARY:
+Software Development Services: 24 hours @ $126.00 = $3024.00
+Discount: -$49.00
+TOTAL: $2975.00
+
+========================================
+
+Payment Terms: Net 30 days
+Payment Method: Check or ACH transfer
+
+Thank you for your business!
+
+W3EVOLUTIONS - Web Development & Software Solutions
